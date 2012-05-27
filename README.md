@@ -6,7 +6,6 @@
 python manage.py startapp --template=https://github.com/brandonvfx/django-app-template/zipball/master --extension=py,md <app_name>
 
 {% endif %}
-## 
 
 ## Install
 
